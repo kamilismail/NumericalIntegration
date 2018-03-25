@@ -1,0 +1,1 @@
+Numerical Integration - aplikacja na system mobilny Android. Umożliwia obliczenie całki metodami prostokątów oraz trapezów.
